@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @man3ng
+- 👋 Hi, I’m @man3ng or Tri
 - 👀 I’m interested in learning and how to be a responsible gambler
 - 🌱 I’m currently learning CSE 30: Intro to Computer Systems
 - 💞️ I’m looking to collaborate on any entry-level to intermediate level projects across all cs-disciplines
